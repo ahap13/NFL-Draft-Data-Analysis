@@ -1,4 +1,5 @@
-#NFL Draft Data Analysis Project
+# NFL Draft Data Analysis Project
+
 A simple script that takes in a csv of all NFL draft data going back to 1980. It breaks down the most successful years in rounds in producing HOFers, APs, PBs, games played, and seasons started.
 
 I've also included weighted scores based on performance based on how they ranked in the above categories.
